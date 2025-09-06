@@ -1,0 +1,1 @@
+Apuntes de **VHDL** de la asignatura _95000018 - Electronica Digital_ (**EDIG**) del plan de estudios _09TT - Grado En Ingenieria De Tecnologias Y Servicios De Telecomunicacion_ de la Universidad Politécnica de Madrid (**ETSIT**), realizados en el curso académico 2024/2025.
